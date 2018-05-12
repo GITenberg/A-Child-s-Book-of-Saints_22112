@@ -1,0 +1,38 @@
+_repo: A-Child-s-Book-of-Saints_22112
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, T. H. (Thomas Heath)
+    alias: Robinson, Thomas Heath
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '25118'
+    url: http://www.gutenberg.org/2009/agents/25118
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Canton, William
+    birthdate: 1845
+    deathdate: 1926
+    gutenberg_agent_id: '25117'
+    url: http://www.gutenberg.org/2009/agents/25117
+description: Christian stories of saints, hermits, ministers, and old abbeys; visions,
+  miracles, and angels to help children "realise something of that bygone existence
+  ... its unquestioning faith in the unseen and eternal ... and its lovely ideals
+  and haunting legends."
+gutenberg_issued: '2007-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian saints -- Juvenile literature'
+- !lcc 'PZ'
+title: A Child's Book of Saints
+url: http://www.gutenberg.org/ebooks/22112
